@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conorstew
-- 👀 I’m interested in the web and making money
-- 🌱 I’m currently working on a big web app called EasyCampsite
+- 👀 I’m interested in the web apps
+- 🌱 Built EasyCampsite
 - 📫 You can reach me at cswebdevelop@gmail.com
 
 <!---
