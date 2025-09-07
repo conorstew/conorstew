@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @conorstew
-- 👀 I’m interested in the web apps
+- 👀 I’m interested in web apps
 - 🌱 Built EasyCampsite
 - 📫 You can reach me at cswebdevelop@gmail.com
 
